@@ -1,20 +1,20 @@
 # やりたいことリスト
-- [ ]: 活性化関数の説明
-- [ ]: 誤差関数の説明
-- [ ]: 学習のループ
-    - [ ]: forward計算
-    - [ ]: ロスの計算
-    - [ ]: 勾配の計算（誤差逆伝播法）
-- [ ]: パーセプトロン
-- [ ]: LinearのみでMNIST
-- [ ]: Normalisation
-    - [ ]: Dropout
-    - [ ]: Batch Normalisation
-- [ ]: Convolution
-- [ ]: Image Task
-    - [ ]: Classification
-    - [ ]: Unsupervised
-    - [ ]: Style Transfer
-- [ ]: GAN
-    - [ ]: DCGAN
-    - [ ]: VAE-GAN
+- [ ] 活性化関数の説明
+- [ ] 誤差関数の説明
+- [ ] 学習のループ
+    - [ ] forward計算
+    - [ ] ロスの計算
+    - [ ] 勾配の計算（誤差逆伝播法）
+- [ ] パーセプトロン
+- [ ] LinearのみでMNIST
+- [ ] Normalisation
+    - [ ] Dropout
+    - [ ] Batch Normalisation
+- [ ] Convolution
+- [ ] Image Task
+    - [ ] Classification
+    - [ ] Unsupervised
+    - [ ] Style Transfer
+- [ ] GAN
+    - [ ] DCGAN
+    - [ ] VAE-GAN
